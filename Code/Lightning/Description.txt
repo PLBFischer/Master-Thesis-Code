@@ -1,0 +1,1 @@
+The Code "lightning simulator" implements the simulations from the chapter on lightning (Ch.4). It uses the file "dielectricnetworks.py" to construct the grid on which the simulation will run.
